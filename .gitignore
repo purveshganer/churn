@@ -182,4 +182,5 @@ cython_debug/
 
 #----------------------------------------------------------------------------------------------------------
 churn/config.py
+zopen_project.bat
 users/data_import/dataset/*
